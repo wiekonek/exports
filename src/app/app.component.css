@@ -1,0 +1,25 @@
+header > h1 {
+  text-align: center;
+}
+
+aside {
+  margin: 1%;
+  width: 18%;
+  float: left;
+}
+
+main {
+  display: block;
+  float: left;
+  margin: 1%;
+  width: 78%;
+}
+
+aside > mat-card > * {
+  width: 100%;
+  display: block;
+}
+
+table {
+  width: 100%;
+}
